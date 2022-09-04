@@ -1,7 +1,7 @@
 # Summer Internship and Full time Recruiting
 This repo contains a list of companies recruiting for various internship and new grad roles in the summer of 2022 with resumption times of summer 2023.
 
-| # | Company | Role | Dealine |
+| # | Company | Role | Deadline |
 ---- | --- | --- |  --- |
 1	|		Goldman Sachs	|	[Summer Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7fddc596a5d3/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB)	| November 2022 |
 2	|		Goldman Sachs	|	[New Analyst](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-7fddc596a5d3/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)	| November 2022 |
@@ -14,3 +14,4 @@ This repo contains a list of companies recruiting for various internship and new
 9 | Bank of America | [Global Risk Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8684-Global-Risk-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
 10 | Bank of America | [Global Risk and Trading Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8681-Global-Markets-Sales-and-Trading-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
 11 | Bank of America | [Global Research Summer Analyst](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-1802545/xf-0b361ea63946/candidate/so/pm/1/pl/1/opp/8677-Global-Research-Summer-2023-Analyst-London/en-GB) | 6 November 2022 |
+12 | Citi | [Summer Analyst](https://jobs.citi.com/early-careers-emea) | 31 October 2022 |
